@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error encountered when using the Expo CLI to start a React Native project. The error message is often vague, making debugging difficult.  This example focuses on issues stemming from improper use of async/await within useEffect hooks and potential configuration problems. Solutions are provided in `bugSolution.js`.
